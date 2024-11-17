@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube</title>
+  <!-- 加载CSS路径 -->
+  <!-- <link rel="stylesheet" href="public\styles.css"> -->
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="logo">YouTube</div>
+    <input type="text" class="search-bar" placeholder="搜索视频...">
+    <div class="user-info">
+      <button class="upload-btn">上传</button>
+      <button class="signin-btn">登录</button>
+
+      <!-- 登录模态框 -->
+      <div id="login-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+          <span class="close-btn" id="login-close">&times;</span>
+          <h2>登录</h2>
+          <form id="login-form">
+            <label for="login-username">用户名</label>
+            <input type="text" id="login-username" placeholder="输入用户名" required>
+            <label for="login-password">密码</label>
+            <input type="password" id="login-password" placeholder="输入密码" required>
+            <button type="submit">登录</button>
+          </form>
+        </div>
+      </div>
+
+      <!-- 注册模态框 -->
+      <div id="register-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+          <span class="close-btn" id="register-close">&times;</span>
+          <h2>注册</h2>
+          <form id="register-form">
+            <label for="register-username">用户名</label>
+            <input type="text" id="register-username" placeholder="输入用户名" required>
+            <label for="register-email">邮箱</label>
+            <input type="email" id="register-email" placeholder="输入邮箱" required>
+            <label for="register-password">密码</label>
+            <input type="password" id="register-password" placeholder="输入密码" required>
+            <button type="submit">注册</button>
+          </form>
+        </div>
+      </div>
+
+      <!-- 上传视频模态框 -->
+      <div id="upload-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+          <span class="close-btn" id="upload-close">&times;</span>
+          <h2>上传视频</h2>
+          <form id="upload-form" enctype="multipart/form-data">
+            <label for="video-title">视频标题</label>
+            <input type="text" id="video-title" name="title" placeholder="输入视频标题" required>
+            <label for="video-file">选择视频文件</label>
+            <input type="file" id="video-file" name="video" accept="video/*" required>
+            <button type="submit">上传</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section class="video-list">
+      <div class="video-card" data-video-url="viode/episode_01.mp4">
+        <img src="https://via.placeholder.com/400x250" alt="视频封面">
+        <div class="video-title">黑皮女仆与少爷第一集</div>
+        <div class="video-details">
+          <span>播放量 1000次</span> | <span>发布时间 1天前</span>
+        </div>
+      </div>
+      <div class="video-card" data-video-url="viode/episode_02.mp4">
+        <img src="https://via.placeholder.com/400x250" alt="视频封面">
+        <div class="video-title">黑皮女仆与少爷第二集</div>
+        <div class="video-details">
+          <span>播放量 500次</span> | <span>发布时间 2天前</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 视频播放区域 -->
+    <section class="video-player-section" style="display: none;">
+      <div class="video-player-container">
+        <video id="video-player" controls>
+          <source src="" id="video-source" type="video/mp4">
+          您的浏览器不支持 HTML5 视频。
+        </video>
+        <button id="close-player">关闭</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© YouTube</p>
+  </footer>
+
+  <!-- 加载JS路径 -->
+  <script src="/script.js"></script>
+</body>
+</html>
+
+
