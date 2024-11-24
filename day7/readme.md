@@ -90,7 +90,7 @@ int main() {
 在liunxxt的路径下，新建立了一个文件夹duowj  
 <font color=pink>cd duowj</font>
 首先建立一个头文件 greeting.h  
-<font color=pink>touch duowj</font>  
+<font color=pink>touch greeting.h </font>  
 在里面输入  
 ```#ifndef _GREETING_H
 #define _GREETING_H
