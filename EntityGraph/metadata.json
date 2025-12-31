@@ -1,0 +1,5 @@
+{
+  "name": "Entity Attribute Graph Generator",
+  "description": "A tool to visualize Entity-Attribute relationships using a star topology diagram. Supports manual entry and AI-assisted attribute generation.",
+  "requestFramePermissions": []
+}
