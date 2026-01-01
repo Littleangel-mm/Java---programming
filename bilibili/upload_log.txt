@@ -1,0 +1,187 @@
+[失败] output\拼图小游戏.mp4 - 失败
+[失败] output\朱紫模拟器游玩实验视频.mp4 - 失败
+[失败] output\测试视频.mp4 - 失败
+[失败] output\拼图小游戏.mp4 - 未找到上传控件
+[错误] output\朱紫模拟器游玩实验视频.mp4 - ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+[信息] 正在登录 B 站...
+[成功] 已加载登录 Cookies
+[成功] 自动登录成功
+[信息] 共检测到 2 个视频
+[信息] 开始上传视频：《拼图小游戏》
+[信息] 视频上传已开始
+[成功] 视频上传完成
+[信息] 标题已填写：拼图小游戏
+[警告] 未找到简介输入框
+[信息] 已选择视频类型：转载
+[警告] 未找到转载来源输入框
+[信息] 正在提交投稿...
+[失败] 未找到投稿按钮，投稿可能失败
+[信息] 开始上传视频：《朱紫模拟器游玩实验视频》
+[失败] output\拼图小游戏.mp4 - 失败
+[失败] output\朱紫模拟器游玩实验视频.mp4 - 失败
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[Warning] Failed to find video upload input
+[Failed] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - Video upload input not found
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[错误] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 -> name 'video_path' is not defined
+[错误] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 选择封面失败：Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff677867a35
+	0x7ff677867a90
+	0x7ff6775e16ad
+	0x7ff67763a13e
+	0x7ff67763a44c
+	0x7ff67768ebe7
+	0x7ff67768b8fb
+	0x7ff67762b068
+	0x7ff67762be93
+	0x7ff677b229d0
+	0x7ff677b1ce50
+	0x7ff677b3cc45
+	0x7ff6778830ce
+	0x7ff67788adbf
+	0x7ff677870c14
+	0x7ff677870dcf
+	0x7ff677856828
+	0x7fff06b07614
+	0x7fff089026f1
+
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[警告] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 未找到封面上传控件
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[警告] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 默认封面文件不存在：C:\Users\fl\Desktop\bilibili\default_cover.jpg
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[错误] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 填写转载来源失败：Message: element click intercepted: Element <input data-v-3896db33="" type="text" maxlength="200" placeholder="转载视频请注明来源、时间、地点(例：转自https://www.xxxx.com/yyyy)，注明来源会更快地通过审核哦" class="input-val"> is not clickable at point (1011, 492). Other element would receive the click: <div class="crop-mask crop-mask-top" style="position: absolute; background-color: rgba(255, 255, 255, 0.5); z-index: 999; left: 102.5px; top: 7px; width: 247px; height: 53.527px;"></div>
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff677867a35
+	0x7ff677867a90
+	0x7ff6775e16ad
+	0x7ff677642359
+	0x7ff67763fcde
+	0x7ff67763cc11
+	0x7ff67763bad0
+	0x7ff67762d2c8
+	0x7ff67766297a
+	0x7ff67762cb56
+	0x7ff67768b8fb
+	0x7ff67762b068
+	0x7ff67762be93
+	0x7ff677b229d0
+	0x7ff677b1ce50
+	0x7ff677b3cc45
+	0x7ff6778830ce
+	0x7ff67788adbf
+	0x7ff677870c14
+	0x7ff677870dcf
+	0x7ff677856828
+	0x7fff06b07614
+	0x7fff089026f1
+
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 找不到投稿元素
+[警告] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 默认封面文件不存在：C:\Users\fl\Desktop\bilibili\default_cover.jpg
+[警告] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 点击‘完成制作’失败
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[错误] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 填写简介失败：Message: element not interactable
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff677867a35
+	0x7ff677867a90
+	0x7ff6775e14b5
+	0x7ff67763b6f3
+	0x7ff67762d2c8
+	0x7ff67766297a
+	0x7ff67762cb56
+	0x7ff67768b8fb
+	0x7ff67762b068
+	0x7ff67762be93
+	0x7ff677b229d0
+	0x7ff677b1ce50
+	0x7ff677b3cc45
+	0x7ff6778830ce
+	0x7ff67788adbf
+	0x7ff677870c14
+	0x7ff677870dcf
+	0x7ff677856828
+	0x7fff06b07614
+	0x7fff089026f1
+
+[错误] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 -> 'NoneType' object has no attribute 'is_displayed'
+[失败] output\Ribeye Steak on Hot Stone ｜ Bushcraft Cooking with Garlic Bread & Smoked Whiskey.mp4 - 失败
+[错误] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 填写简介失败：Message: element not interactable
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7a98b7a35
+	0x7ff7a98b7a90
+	0x7ff7a96314b5
+	0x7ff7a968b6f3
+	0x7ff7a967d2c8
+	0x7ff7a96b297a
+	0x7ff7a967cb56
+	0x7ff7a96db8fb
+	0x7ff7a967b068
+	0x7ff7a967be93
+	0x7ff7a9b729d0
+	0x7ff7a9b6ce50
+	0x7ff7a9b8cc45
+	0x7ff7a98d30ce
+	0x7ff7a98dadbf
+	0x7ff7a98c0c14
+	0x7ff7a98c0dcf
+	0x7ff7a98a6828
+	0x7fff06b07614
+	0x7fff089026f1
+
+[失败] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 找不到投稿元素
+[错误] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 填写简介失败：Message: element not interactable
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7a98b7a35
+	0x7ff7a98b7a90
+	0x7ff7a96314b5
+	0x7ff7a968b6f3
+	0x7ff7a967d2c8
+	0x7ff7a96b297a
+	0x7ff7a967cb56
+	0x7ff7a96db8fb
+	0x7ff7a967b068
+	0x7ff7a967be93
+	0x7ff7a9b729d0
+	0x7ff7a9b6ce50
+	0x7ff7a9b8cc45
+	0x7ff7a98d30ce
+	0x7ff7a98dadbf
+	0x7ff7a98c0c14
+	0x7ff7a98c0dcf
+	0x7ff7a98a6828
+	0x7fff06b07614
+	0x7fff089026f1
+
+[失败] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 找不到投稿元素
+[错误] output\أخطر وأشرس الأفاعي بالعالم - كوبرا الملك.mp4 -> Message: tab crashed
+  (Session info: chrome=142.0.7444.60)
+
+[警告] 未找到封面上传输入框
+[警告] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 未找到封面上传控件
+[成功] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 检测到：草稿
+[警告] 未找到封面上传输入框
+[警告] output\أخطر وأشرس الأفاعي بالعالم - كوبرا الملك.mp4 - 未找到封面上传控件
+[成功] output\أخطر وأشرس الأفاعي بالعالم - كوبرا الملك.mp4 - 检测到：草稿
+[警告] 未找到封面上传输入框
+[警告] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 未找到封面上传控件
+[成功] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 检测到：草稿
+[警告] 未找到封面上传输入框
+[警告] output\أخطر وأشرس الأفاعي بالعالم - كوبرا الملك.mp4 - 未找到封面上传控件
+[成功] output\أخطر وأشرس الأفاعي بالعالم - كوبرا الملك.mp4 - 检测到：草稿
+[警告] 未找到封面上传输入框
+[警告] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 未找到封面上传控件
+[成功] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 检测到：草稿
+[警告] 未找到封面上传输入框
+[警告] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 未找到封面上传控件
+[成功] output\Hot Tent Camping  in deep Winter & Catch and Cook.mp4 - 检测到：草稿
